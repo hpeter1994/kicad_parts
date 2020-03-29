@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 48L256
+D 256Kbit SPI serial EERAM, SRAM with EEPROM backup, 2.7-3.6V, SOIC-8
+K 256Kbit 3V SPI serial EERAM SRAM EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20006237B.pdf
+$ENDCMP
+#
+$CMP 48L512
+D 512Kbit SPI serial EERAM, SRAM with EEPROM backup, 2.7-3.6V, SOIC-8
+K 512Kb 3V SPI serial EERAM SRAM EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20006008C.pdf
+$ENDCMP
+#
+$CMP 48L640
+D 64Kbit SPI serial EERAM, SRAM with EEPROM backup, 2.7-3.6V, SOIJ-8/TDNF-8
+K 64Kbit 3V SPI serial EERAM SRAM EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20006055B.pdf
+$ENDCMP
+#
+$CMP 48LM01
+D 1Mbit SPI serial EERAM, SRAM with EEPROM backup, 2.7-3.6V, SOIJ-8
+K 1Mb 3V SPI serial EERAM SRAM EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20006008C.pdf
+$ENDCMP
+#
+#End Doc Library
